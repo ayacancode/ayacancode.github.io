@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Visualizations  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau Resume](/sample_page)
+<img src="images/githubio.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
