@@ -20,12 +20,14 @@
 ### Venture Capital
 
 - [Predicting Startup Success: Using Machine Learning (Python) and Visualizations (Tableau) to predict the likelihood of a successful exit](/pdf/Startup_success_pt1_Aya_Spencer.pdf)
-  
-  <br><br>
-  
-  Data Scientist @AMERICANEXPRESS
-  Ventures Fellow @BLCKVC
-  www.ayaspencer.com
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+I created a presentation to discuss the benefits of using machine learning to streamline the process of sourcing in the venture capital space. Below are snapshot of some slides from my presentation. Click the link above for a copy of the full presentation. 
   <br><br>
   
 - [Project 2 Title](http://example.com/)
