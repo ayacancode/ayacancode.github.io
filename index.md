@@ -4,7 +4,7 @@
 
 ### Visualizations  
 
-[Tableau Resume](/sample_page)
+[Tableau Resume](https://public.tableau.com/profile/ayacancode#!/vizhome/Resume_16150534844580/Summary)
 <img src="images/githubio.png?raw=true"/>
 
 ---
