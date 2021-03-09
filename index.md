@@ -21,14 +21,37 @@
 
 - [Predicting Startup Success: Using Machine Learning (Python) and Visualizations (Tableau) to predict the likelihood of a successful exit](/pdf/Startup_success_pt1_Aya_Spencer.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 I created a presentation to discuss the benefits of using machine learning to streamline the process of sourcing in the venture capital space. Below are snapshot of some slides from my presentation. Click the link above for a copy of the full presentation. 
-  <br><br>
+
+Introduction
+
+<img src="images/introduction.png?raw=true"/>
+
+Data Cleaning and Wrangling
+
+<img src="images/data cleaning and wrangling.png?raw=true"/>
+
+Exploratory Analysis 
+
+<img src="images/exploratory analysis .png?raw=true"/>
+<img src="images/exploratory analysis using tableau.png?raw=true"/>
+
+Word Cloud 
+
+<img src="images/word cloud analysis .png?raw=true"/>
+
+Forecasting 
+
+<img src="images/forecasting .png?raw=true"/>
+
+Recursive Feature Elimination.png
+
+<img src="images/recursive feature elimination.png?raw=true"/>
+
+Classification Report 
+
+<img src="images/classification report.png?raw=true"/>
   
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
