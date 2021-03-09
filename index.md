@@ -19,7 +19,7 @@
 
 ### Venture Capital
 
-- [Project 1 Title](/pdf/sample_presentation.pdf)
+- [Predicting Startup Success: Using Machine Learning (Python) and Visualizations (Tableau) to predict the likelihood of a successful exit](/pdf/Startup_success_pt1_Aya_Spencer.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
