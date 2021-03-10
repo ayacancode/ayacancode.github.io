@@ -82,7 +82,7 @@ Sentiment Analysis
 
 ## Hobbies 
 
-- [I am a chef for professional atheltes!](https://www.ayaspencer.com)
+- [I am a private chef for professional athletes!](https://www.ayaspencer.com)
 - <img src="images/92B0364B-1FA2-4795-9350-94F8FDDA1BC8.jpeg?raw=true"/>
 
 
