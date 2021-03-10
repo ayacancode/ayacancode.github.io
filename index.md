@@ -27,7 +27,7 @@ I created two presentations to discuss the benefits of using machine learning to
 
 Introduction
  
-<img src="images/introduction.png?raw=true"/>
+<img src="images/introduction.png?raw=true"/> <img src="images/data cleaning and wrangling.png?raw=true"/>
 
 Data Cleaning and Wrangling
 
