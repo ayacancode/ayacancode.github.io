@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Visualizations  
+## Visualizations  
 
 [Tableau Resume](https://public.tableau.com/profile/ayacancode#!/vizhome/Resume_16150534844580/Summary)
 <img src="images/githubio.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Venture Capital
+## Venture Capital
 
 - [Predicting Startup Success: Using Machine Learning (Python) and Visualizations (Tableau) to predict the likelihood of a successful exit](/pdf/Startup_success_pt1_Aya_Spencer.pdf)
 
@@ -61,7 +61,7 @@ Classification Report
 
 ---
 
-### Government
+## Government
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
