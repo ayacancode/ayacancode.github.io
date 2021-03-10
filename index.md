@@ -25,7 +25,7 @@
 I created a presentation to discuss the benefits of using machine learning to streamline the process of sourcing in the venture capital space. Below are snapshot of some slides from my presentation. Click the link above for a copy of the full presentation. 
 
 Introduction
-
+ 
 <img src="images/introduction.png?raw=true"/>
 
 Data Cleaning and Wrangling
