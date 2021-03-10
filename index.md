@@ -41,6 +41,7 @@ Exploratory Analysis
 Word Cloud 
 
 <img src="images/word cloud analysis .png?raw=true"/>
+<img src="images/word cloud over time.png?raw=true"/>
 
 Forecasting 
 
@@ -53,6 +54,19 @@ Recursive Feature Elimination.png
 Classification Report 
 
 <img src="images/classification report.png?raw=true"/>
+
+Model Bias
+
+<img src="images/model bias.png?raw=true"/>
+
+Web Scraping
+
+<img src="images/web scraping.png?raw=true"/>
+
+Sentiment Analysis  
+
+<img src="images/sentiment analysis.png?raw=true"/>
+
   
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
