@@ -21,7 +21,8 @@
 
 - [Predicting Startup Success: Using Machine Learning (Python) and Visualizations (Tableau) to predict the likelihood of a successful exit](/pdf/Startup_success_pt1_Aya_Spencer.pdf)
 
-
+- [Predicting Startup Success Part 2:How to effectively use Big Data Analytics and human judgement (hybrid intelligence) to enhance the vetting process](/pdf/Startup_success_part2_Aya_Spencer.pdf)
+- 
 I created a presentation to discuss the benefits of using machine learning to streamline the process of sourcing in the venture capital space. Below are snapshot of some slides from my presentation. Click the link above for a copy of the full presentation. 
 
 Introduction
