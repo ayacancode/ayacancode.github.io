@@ -67,11 +67,6 @@ Sentiment Analysis
 
 <img src="images/sentiment analysis.png?raw=true"/>
 
-  
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
@@ -85,13 +80,11 @@ Sentiment Analysis
 
 ---
 
-### Hobbies 
+## Hobbies 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [I am a chef for professional atheltes!](https://www.ayaspencer.com)
+- <img src="images/92B0364B-1FA2-4795-9350-94F8FDDA1BC8.jpeg?raw=true"/>
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
