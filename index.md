@@ -8,8 +8,8 @@
 <img src="images/githubio.png?raw=true"/>
 
 ---
-[Seaborn & matplotlib](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Seaborn & matplotlib]
+<img src="images/viz_examples.png?raw=true"/>
 
 ---
 [Plotly & cufflinks](http://example.com/)
