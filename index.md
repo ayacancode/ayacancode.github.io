@@ -5,17 +5,20 @@
 ## Visualizations  
 
 [Tableau Resume](https://public.tableau.com/profile/ayacancode#!/vizhome/Resume_16150534844580/Summary)
+
+I build my resume in Tableau. Click the above link to check it out.
+
 <img src="images/githubio.png?raw=true"/>
 
 ---
-[Seaborn & matplotlib]
+- Seaborn & matplotlib
+
+Examples of some of the vizualizations I've created in Python.
+
 <img src="images/viz_examples.png?raw=true"/>
 
 ---
-[Plotly & cufflinks](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ## Venture Capital
 
@@ -74,6 +77,7 @@ Sentiment Analysis
 ## Hobbies 
 
 - [I am a private chef for professional athletes!](https://www.ayaspencer.com)
+
 - <img src="images/92B0364B-1FA2-4795-9350-94F8FDDA1BC8.jpeg?raw=true"/>
 
 
