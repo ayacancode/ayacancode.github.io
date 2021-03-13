@@ -8,6 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   I also cook like crazy.
   <br><br>
   <a href="https://www.linkedin.com/in/aya-spencer-674a56107">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://www.ayaspencer.com">View My Website</a> 
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
