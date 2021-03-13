@@ -11,7 +11,8 @@ I build my resume in Tableau. Click the above link to check it out.
 <img src="images/githubio.png?raw=true"/>
 
 ---
-- Seaborn & matplotlib
+
+Seaborn & Matplotlib
 
 Examples of some of the vizualizations I've created in Python.
 
