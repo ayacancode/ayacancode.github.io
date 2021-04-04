@@ -20,6 +20,23 @@ Examples of some of the vizualizations I've created in Python.
 
 ---
 
+## Published Articles
+
+[Published Articles](https://ayacancode.medium.com/)
+
+I write about Data Science, Venture Capital, and Diversity & Inclusion. I also write about psychology and productivity. Click the link above to check it out!
+
+<img src="images/data science intution.png?raw=true"/>
+
+---
+
+Seaborn & Matplotlib
+
+Examples of some of the vizualizations I've created in Python.
+
+<img src="images/viz_examples.png?raw=true"/>
+
+---
 
 ## Venture Capital
 
