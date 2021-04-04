@@ -96,7 +96,7 @@ Sentiment Analysis
 
 - [I am a private chef for professional athletes!](https://www.ayaspencer.com)
 
-- <img src="images/39B9D67D-16D0-47FA-99F8-F3528B3F7F8D_1_201_a.jpeg?raw=true"/>
+<img src="images/39B9D67D-16D0-47FA-99F8-F3528B3F7F8D_1_201_a.jpeg?raw=true"/>
 
 
 ---
