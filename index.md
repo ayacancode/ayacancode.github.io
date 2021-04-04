@@ -30,14 +30,6 @@ I write about Data Science, Venture Capital, and Diversity & Inclusion. I also w
 
 ---
 
-Seaborn & Matplotlib
-
-Examples of some of the vizualizations I've created in Python.
-
-<img src="images/viz_examples.png?raw=true"/>
-
----
-
 ## Venture Capital
 
 - [Predicting Startup Success: Using Machine Learning (Python) and Visualizations (Tableau) to predict the likelihood of a successful exit](/pdf/Startup_success_pt1_Aya_Spencer.pdf)
